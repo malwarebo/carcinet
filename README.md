@@ -5,9 +5,8 @@ This is a Hackathon project which uses machine learning to detect breast cancer 
 
 # Tools and Setup
 
-# Install virtual environment
+## Install virtual environment
 
-# How to install virtualenv:
 
 ### Install **pip** first
 
