@@ -1,4 +1,10 @@
-# Tools and Setup for Meetup
+# Cancer Detect
+
+This is a Hackathon project which uses machine learning to detect breast cancer at early stage.
+
+
+# Tools and Setup
+
 # Install virtual environment
 
 # How to install virtualenv:
