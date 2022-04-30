@@ -1,9 +1,9 @@
 # Cancer Detect
 
-This is a Hackathon project which uses machine learning to detect breast cancer at early stage.
+This was a Hackathon project which uses machine learning to detect breast cancer at early stage.
 
 
-# Tools and Setup
+# Tools and Setup (Linux)
 
 ## Install virtual environment
 
@@ -72,19 +72,19 @@ python3.6 -m virtualenv venv
 
 
 ## Install Tensorflow
-$pip install --upgrade tensorflow
+$ pip install --upgrade tensorflow
 $ pip install numpy scipy
 $ pip install scikit-learn
 $ pip install pillow
 $ pip install h5py
-pip install keras
+$ pip install keras
 
 sudo apt-get install python-scipy
 or
 sudo pip3.6 install scipy --upgrade
 
 # Install other tools
-pip install numpy opencv-contrib-python
+$ pip install numpy opencv-contrib-python
 $ pip install pillow
 $ pip install tensorflow keras
 $ pip install imutils
